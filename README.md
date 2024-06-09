@@ -1,5 +1,5 @@
-# Portable Streamer Overload
-An attempt at Porting **Needy Streamer Overload** to **C#** For, I guess, better compatibility with devices and easy Porting.
+# Untitled Needy Streamer Overload Port
+An attempt at Porting **Needy Streamer Overload** to **32 bit devices** For, better compatibility with old OSes.
 
 ![work](https://img.shields.io/badge/work-in%20progress-green?style=plastic)
 
